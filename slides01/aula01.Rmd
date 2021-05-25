@@ -1,0 +1,164 @@
+---
+title: "Desenho de Projetos"
+subtitle: "Introdução: Componentes de uma pesquisa científica"
+author: "Felipe Melo"
+institute: "UFPE"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["robot","tamu-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+---
+
+# Aprender ciência
+.center[
+<img src="libs/books.png">
+]
+---
+# Inspiração _versus_ transpiração
+.pull-left[
+<img src="https://upload.wikimedia.org/wikipedia/en/2/24/Jo%C3%A3o_Cabral.jpg">
+<img src="http://www2.recife.pe.gov.br/sites/default/files/styles/imagem_slide_home/public/poesia_8498221206_5fd3634d4b_k_0.jpg?itok=yMUIniFf">]
+.pull-right[
+### “Poesia é conhecimento. Inspiração, encanto, não acredito em nada dessas coisas. Poesia é esforço, é consciência, é cultura. O sujeito não pode ser inteiramente inculto e sair escrevendo poesia, por mais inspirado que ele seja... Escrever para mim é uma coisa dificílima, porque eu não queria fazer esta poesia que todo mundo faz.”
+]
+
+---
+# Ciência se aprende?
+## Tutoraial, tem! Consulte o [Wikihow](https://www.wikihow.com/Become-a-Scientist)
+.center[
+<img src="https://www.wikihow.com/images/thumb/7/76/Become-a-Scientist-Step-15.jpg/aid1132955-v4-728px-Become-a-Scientist-Step-15.jpg.webp" width = 50%>
+]
+---
+# Exemplos de cientistas
+
+.pull-left[
+<img src="https://images-na.ssl-images-amazon.com/images/I/41eNHV7DLiL._SX248_BO1,204,203,200_.jpg">
+
+###"Escolha um tema e um grupo que lhe apaixone"
+]
+.pull-right[
+<img src="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_9ef683fbf13ebca6f4ec066351767ac5.jpg">]
+"...decidiu escrever cartas para quem ele foi: um garoto apaixonado pela natureza, mas inseguro em relação ao futuro, a procura de sua identidade e de seu lugar em um mundo nem sempre fácil, mas invariavelmente fascinante."
+
+---
+# Erros comuns de quem tenta a sorte na ciência
+.pull-left[
+###- Lê pouco, muito pouco
+###- Não conhece nem minimamente a história da ciência
+###- Especializa-se muito cedo
+###- Não cultiva a curiosidade
+###- Aceita a inércia acadêmica
+###- Transforma pós-graduação em "emprego"
+]
+
+--
+
+.pull-right[
+<img src="https://media.giphy.com/media/xUA7bazBa69nSu6lPy/giphy.gif">
+]
+
+---
+# Caminhos para ser feliz e produtivo na ciência
+.pull-left[
+<img src="https://media.giphy.com/media/T8ZP9P7efQ8cE/giphy.gif">
+]
+.pull-right[
+###- Tenha um <mark>*forte hábito*</mark> de leitura
+###- Conheça a história da sua área de conhecimento
+###- Construa referenciais de análise
+###- Pratique o reciocínio científico
+###- Identifique as habilidades que precisa desenolver
+]
+
+---
+#Por que fazer uma pósgraduação?
+
+.pull-left[
+
+### ( ) Tô lisa, sem um pau pra dar num gato
+### ( ) Todos meus amig@s estão fazendo
+### ( ) Não sei o que fazer com o diploma de biólogo
+### ( ) Adoro meu orientador do PIBIC
+### ( ) Quero ser cientista
+### ( ) Todas as anteriores
+]
+.pull-right[
+<img src="https://media.giphy.com/media/f6iJQVxFUnMIM/giphy.gif">
+]
+
+---
+# As dúvidas persistem?
+.center[
+<img src="https://cdn.dicionariopopular.com/imagens/nazareconfusamatematica.gif" width = 800>
+]
+---
+# Fato 1- Você é um priviliegiado
+.center[
+<img src="libs/pubs.png" width=800 >]
+
+---
+# Fato 1- Você é um priviliegiado
+.center[
+<img src="http://www.anpg.org.br/wp-content/uploads/2020/06/1-Hist%C3%B3rico-_Quantitativos_-de-Bolsas-_CAPES-1024x576.png" width = 800>]
+
+fonte: [ANPG](http://www.anpg.org.br/16/07/2020/mapeamento-nacional-de-bolsas-da-capes/)
+
+---
+# Fato 2- Você tem responsabilidade social
+.pull-left[
+###- Quem paga sua bolsa?
+###- Por que o Brasil forma cientistas?
+###- Qual a prioridade da educação brasileira?
+###- Você tem ideia do orçamento de C&T?
+###- Quem financia a ciência no Brasil?
+]
+
+.pull-right[
+<img src="https://payload.cargocollective.com/1/14/457826/13252125/SftP_totebag1_red_1600_c.jpg">
+]
+
+---
+# Fato 3- O país tem responsabilidade social com quem forma
+.center[
+´<img src="libs/bolsas.png">
+<img src="libs/orcamento.png">
+]
+
+---
+# A ciência é uma política em permanente construção
+.pull-left[
+###- Estamos aumentando muito a formação de mestres e doutores
+###- Não há como absorver a todos em IFES
+###- Há pouco espaço na iniciativa privada, mas há
+###- Há muita competição
+]
+.pull-right[
+<img src="https://decoscience.ca/wp-content/uploads/2018/06/Scientific-competition-1050x675.jpg" width=600>]
+
+---
+# Quais habilidades podem ser úteis para uma PG?
+.pull-left[
+###- Saber fazer perguntas e hipóteses
+###- Planejar ações de curto, médio e longo prazo
+###- Identificação das habilidades a serem desenvolvidas
+###- Criar rede de colaboração
+###- <mark> Arrumar dinheiro
+]
+.pull-right[
+<img src="https://article-imgs.scribdassets.com/347dm9zv9c5zd20v/images/file08V2VKC9.png" width= 350>
+]
+---
+class: center, middle´
+#FIM
+
+
+
+
+
