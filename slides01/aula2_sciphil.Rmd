@@ -7,7 +7,7 @@ date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["robot","tamu-fonts"]
+    css: ["robot","tamu-fonts", "xaringan-themer.css"]
     nature:
       highlightStyle: github
       highlightLines: true
@@ -21,6 +21,7 @@ background-image: url(http://cdn30.us1.fansshare.com/image/sciencewallpapers/sci
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 xaringanExtra::use_scribble()
+library(xaringanthemer)
 ```
 
 ---
@@ -112,3 +113,109 @@ xaringanExtra::use_scribble()
 .pull-right[
 <img src ="https://media.giphy.com/media/3G3fNzu04GvPW/giphy.gif">
 ]
+
+---
+# Método hipotético
+.pull-left[
+##- Vão além dos fenômenos
+##- Realismo *vs*. anti-realismo científico
+##- Construção de teorias
+]
+.pull-right[
+$$H=Hipótese$$ 
+$$E= Evidência$$
+$$ E \to H $$
+## <mark>Não faz sentido
+$$H=Hipótese$$ 
+$$E= Evidência$$
+$$ H \to E $$
+## <mark>Agora sim!!
+]
+
+---
+# Teste de hipóteses
+
+### "Um hipótese que não tenha nenhuma conseqüência experimental não passa de suposição vazia, do ponto de vista cognitivo, e não pode ser aceita na ciência" 
+.pull-left[
+$$H\to E$$
+$$\sim E$$
+___
+$$\sim H$$
+##Falseabilidade
+]
+--
+.pull-right[
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg" width = 250>
+## Karl Popper
+]
+
+---
+# Integração teórica
+
+$$(H+A)\to E$$
+
+$$\sim E$$
+$$\sim (H+A)$$
+--
+##"Diante de evidência desfavorável, o cientista deverá apelar a critérios extra-lógicos, mais sutis e difíceis de explicitar, sobre o que fazer com sua teoria, sobre que partes modificar."
+
+---
+# Confirmando a hipótese
+.pull-left[
+$$H\to E$$
+$$ E$$
+
+___
+$$ H$$
+]
+.pull-right[
+##- Hipótese confirmada?
+##- Intuição
+###- "O fato C é observado. Se a A fosse verdadeira, C seria esperado. Portanto a hipótese A deve ser verdade
+]
+
+---
+# O que é preciso para uma boa ciência?
+.pull-left[
+##1-Integração teórica
+
+<img src="https://www.thwink.org/sustain/glossary/images/KuhnCycle/KuhnCycle_WhereCivilizationAndEnvAre.png">]
+.pull-right[
+<img src="https://www.biografiasyvidas.com/biografia/k/fotos/kuhn.jpg">
+]
+
+---
+# Capacidade de predição
+##- Unificação de fenômenos em teorias
+##- Deve ser vista como um sinal de avanço
+.pull-right[
+<img src="https://i.gifer.com/Car.gif">
+]
+
+---
+# Evidências empíricas
+.pull-left[
+##- Quantidade
+##- Qualidade
+##- Precisão
+##- Parcimônia
+´]
+.pull-right[
+<img src="https://3.bp.blogspot.com/-BeBotlzV3ZQ/W2pQD_ep51I/AAAAAAAAkfY/XZ4S1ofk5D4qVPN1BXGMrVVtx0aloUX3gCLcBGAs/s1600/A%2BNavalha%2Bde%2BOccam%2Bna%2Bpr%25C3%25A1tica%2B-%2Bcharge.jpg">]
+
+---
+#Para saber mais
+
+# [Filosofia da ciência](https://www.wikiwand.com/pt/Filosofia_da_ci%C3%AAncia#/T%C3%B3picos_de_filosofia_da_ci%C3%AAncia)
+# 
+
+---
+class: center, middle
+# FIM
+
+
+
+
+
+
+
