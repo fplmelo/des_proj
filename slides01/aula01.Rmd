@@ -31,7 +31,7 @@ output:
 
 ---
 # Ciência se aprende?
-## Tutoraial, tem! Consulte o [Wikihow](https://www.wikihow.com/Become-a-Scientist)
+## Tutorial, tem! Consulte o [Wikihow](https://www.wikihow.com/Become-a-Scientist)
 .center[
 <img src="https://www.wikihow.com/images/thumb/7/76/Become-a-Scientist-Step-15.jpg/aid1132955-v4-728px-Become-a-Scientist-Step-15.jpg.webp" width = 50%>
 ]
@@ -155,7 +155,7 @@ fonte: [ANPG](http://www.anpg.org.br/16/07/2020/mapeamento-nacional-de-bolsas-da
 <img src="https://article-imgs.scribdassets.com/347dm9zv9c5zd20v/images/file08V2VKC9.png" width= 350>
 ]
 ---
-class: center, middle´
+class: center, middle
 #FIM
 
 

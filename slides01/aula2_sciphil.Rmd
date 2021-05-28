@@ -1,0 +1,114 @@
+---
+title: "Desenho de Projetos"
+subtitle: "Aula 2: Um pouco de filosofia da ciência"
+author: "Felipe Melo"
+institute: "PPEGBV + PPGETNO"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["robot","tamu-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+---
+
+background-image: url(http://cdn30.us1.fansshare.com/image/sciencewallpapers/science-desktop-wallpapers-wallpaper-cave-science-symbol-wallpaper-wallpaper-1805201467.jpg)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_scribble()
+```
+
+---
+# Filosofia é preciso
+.pull-left[
+##- Ciência é uma atividade humana muito antiga
+##- Tem uma história interessante
+##- Transformou-se numa forma de <mark> poder
+##- Evolui constanemente
+]
+
+.pull-right[
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/440px-Aristotle_Altemps_Inv8575.jpg">
+]
+---
+# O que é filosofia da ciência?
+<iframe width="990" height="550" src="https://www.youtube.com/embed/rwUopFRQuBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Fundamentos da ciência
+.pull-left[
+##- A ciência é um método de produção de conhecimento
+##- Há muitos métodos e formas de produzir conhecimento
+##- As formas de conhecimento convivem historicamente
+]
+.pull-right[
+<img src="http://www.kaistaats.com/wp-content/uploads/2016/01/science_vs_everything-648x212.jpg">
+]
+
+---
+# Conhecimento por *experiência*
+.pull-left[
+<img src="https://pt-static.z-dn.net/files/dff/f48ff84b13476f3e60d14069009eddc7.jpg">
+]
+.pull-right[
+##- Baseado nos sentidos e observações
+##- Objetos e fenômenos
+##- particularidades -> generalidades
+##- Focado em: "O que é?"
+]
+
+---
+# Conhecimento *técnico*
+.pull-left[
+##- Baseado no comportamento dos objetos
+##- Leis gerais são suficientes
+##- Englobam *finalidades*
+##- Focado em: "Como é?"
+]
+.pull-right[
+<img src="https://media.giphy.com/media/XCxcmEQWxDdc8qsd2R/giphy.gif">
+]
+
+---
+# Conhecimento *teórico*
+
+.pull-left[
+<img src="https://media.giphy.com/media/141amBdjqs9Vvy/giphy.gif">
+]
+.pull-right[
+##- Baseado em princípios e causas
+##- Conjunto de evidências
+##- Modelos
+##- Focado em: "Por que é?"
+]
+
+---
+# Teorias fonomenológicas
+.pull-left[
+##- São dedicadas aos fenômenos *perceptíveis*
+##- A relação entre fenômenos
+##- Permite a *predição*
+##- Exemplos:???
+]
+--
+.pull-right[
+<img src ="https://pm1.narvii.com/6074/134c790f38fe4c8bce8b68347b8d05b1c0353c7a_hq.jpg">
+]
+
+---
+# Teorias explicativas
+.pull-left[
+##- Também conhecidas como construivas
+##- Processos não necessariamente fenomenológicos
+##- Permite a *explicação*
+##- Exemplos:???
+]
+--
+.pull-right[
+<img src ="https://media.giphy.com/media/3G3fNzu04GvPW/giphy.gif">
+]
