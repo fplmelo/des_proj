@@ -1,0 +1,158 @@
+---
+title: "Desenho de Projetos"
+subtitle: "Aula 3: Planejamento na Pós-Graduação"
+author: "Felipe Melo"
+institute: "PPEGBV + PPGETNO"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["robot","tamu-fonts", "xaringan-themer.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+---
+
+background-image: url(https://www.uib.no/sites/w3.uib.no/files/styles/content_main_wide_1x/public/media/expectation_vs_reality_phd.png?itok=SHwt6sNF&timestamp=1615981791)
+background-size: cover
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_scribble()
+library(xaringanthemer)
+```
+
+---
+# Planejamento? O que é isso?
+<img src="https://www.ed.ac.uk/files/styles/landscape_breakpoints_theme_uoe_tv_1x/public/thumbnails/image/4_year_phd_b.png?itok=wJGTQBno">
+
+[fonte: Univ Edimburgh](https://www.ed.ac.uk/inflammation-research/postgraduate-training/phd/programme-overview/4-year-cir-phd-assessment-process) 
+
+---
+# Como _geralmente_ funciona um grupo de pesquisa?
+.left-column[
+###- O papel do orientador
+- É decrescente com o tempo
+- Apontar as habilidades necessárias
+- Fornecer as condições mínimas para a execução da tese
+]
+.right-column[
+.center[
+<img src="https://www.ic.unicamp.br/~rafael/alunos/phd070618s.gif" height=500>]
+]
+
+---
+# Como _geralmente_ funciona um grupo de pesquisa?
+.left-column[
+###- O papel dos PGs
+- "Seu" plano de estudos é parte de um todo
+- Você deve contribuir para o andamento do seu lab
+- Dar aulas, so-orientar, gerir recursos...
+- Fazer ciência
+]
+.right-column[
+.center[
+<img src="https://www.thedutchphdcoach.com/wp-content/uploads/2020/08/PhD-Life-289x300.jpeg" height=400>]
+]
+
+---
+# Planejamento ou morte!!!
+.pull-left[
+###- Identifique as fases da sua PG
+###- Tenha ideia do tempo necessário
+###- Saiba monitorar seu tempo
+###- Conheça suas necessidades e potencialidades
+]
+.pull-right[
+<iframe width="580" height="380" src="https://www.youtube.com/embed/M7KDXyKFU-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]
+--
+
+
+.center[
+## NÃO TEM FÓRMULA
+]
+
+---
+# Aprenda fazendo
+.left-column[
+##- Ler e Escrever
+##- Analisar
+##- Reportar
+##- Comunicar
+##- Criar rede
+##- Refletir
+]
+.right-column[
+<img src="https://www.educasteam.com.br/wp-content/uploads/2019/12/inteligencias-multiples-664x425.jpg">
+]
+
+---
+.left-column[
+##- Como você lê?
+]
+.right-column[
+.center[
+<img src=libs/abs.png height=600 width=600>
+]
+]
+
+---
+.left-column[
+##- Como você aprende estatística?
+]
+.right-column[
+.center[
+<img src="https://www.r-graph-gallery.com/img/graph/271-ggplot2-animated-gif-chart-with-gganimate1.gif" width=600>
+]
+]
+
+---
+.left-column[
+##- Voce sabe comunicar seus resultados?
+]
+.right-column[
+.center[
+<img src="http://phdcomics.com/comics/archive/phd012113s.gif" width=450>
+]
+]
+
+---
+.left-column[
+##- Você está construindo uma rede de colaborações?
+]
+.right-column[
+.center[
+<img src="https://scholarlykitchen.sspnet.org/wp-content/uploads/2017/04/iStock-614250216.jpg" width=750>
+]
+]
+
+---
+.left-column[
+# Seja feliz na academia
+- É um lugar massa
+- Paga relativamente bem
+- Dá pra ter uma boa vida social
+- Aprenda a valorizar sua atividade
+- **Dá pra transformar o mundo**
+]
+.right-column[
+.center[
+<img src="https://www.fundep.ufmg.br/wp-content/uploads/2020/05/Marcha-Pela-Ci%C3%AAncia-2019-1.png">
+]
+]
+
+
+---
+class: center, middle
+# FIM
+
+
+
+
+
+
+
