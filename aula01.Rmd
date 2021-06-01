@@ -15,7 +15,11 @@ output:
       ratio: '16:9'
       beforeInit: "macros.js"
 ---
-
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_scribble()
+library(xaringanthemer)
+```
 # Aprender ciência
 .center[
 <img src="libs/books.png">
