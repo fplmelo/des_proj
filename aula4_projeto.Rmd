@@ -1,0 +1,195 @@
+---
+title: "Desenho de Projetos"
+subtitle: "Aula 4: Projeto de Pesquisa"
+author: "Felipe Melo"
+institute: "PPEGBV + PPGETNO"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["robot","tamu-fonts", "xaringan-themer.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+---
+
+background-image: url(https://leverageedu.com/blog/wp-content/uploads/2020/08/research-project.jpg)
+background-size: cover
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_scribble()
+library(xaringanthemer)
+xaringanExtra::use_panelset()
+```
+
+---
+# Por onde começar?
+.pull-left[<img src="https://tourismteacher.com/wp-content/uploads/2019/01/Research-Project-Structure.png">
+]
+
+.pull-right[
+
+##- Entenda a estrutura de um projeto de pesquisa
+
+
+]
+
+---
+.left-column[
+###- Mapa mental
+- Deve ser autoexplicativo
+- Qualquer pessoa deve entender
+- Inspiração
+]
+.right-column[
+.center[
+<img src="https://i.pinimg.com/originals/21/51/fa/2151fa8d3ee9e47b40244cad022c652f.jpg" height=500>]
+]
+
+---
+.left-column[
+## Desenho experimental
+- Deve ser autoexplicativo
+- Qualquer pessoa deve entender
+- Contém detalhes do seu experimento
+]
+.right-column[
+.center[
+<img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fng1031/MediaObjects/41588_2002_Article_BFng1031z_Fig1_HTML.gif" height=500>]
+]
+
+---
+.left-column[
+## Predições
+- Devem ser gráficas
+- Qualquer pessoa deve entender
+- Sugerem o tipo de análise a ser usada
+]
+.right-column[
+.panelset[
+.panel[.panel-name[Ex-1]
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data("iris")
+iris %>% 
+  ggplot(aes(Sepal.Length, Sepal.Width))+
+  geom_point()
+```
+]
+.panel[.panel-name[Ex-2]
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+iris %>% 
+  ggplot(aes(Sepal.Length, Sepal.Width, color=Species))+
+  geom_point()
+```
+]
+.panel[.panel-name[Ex-3]
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+iris %>% 
+  ggplot(aes(Species, Sepal.Width, fill=Species))+
+  geom_boxplot()
+```
+]
+.panel[.panel-name[Ex-4]
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+iris %>% 
+  ggplot(aes(Petal.Width, fill=Species))+
+  geom_density()
+```
+]
+.panel[.panel-name[Ex-5]
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+pca<-prcomp(iris[,-5])
+library(factoextra)
+fviz_pca_biplot(pca, label="var", habillage=iris$Species,
+               addEllipses=TRUE, ellipse.level=0.95)
+```
+]
+]
+]
+
+---
+class: center, middle
+## Faça SUAS predições
+## 1, 2, 3 e já!!!
+
+```{r echo=FALSE}
+library(countdown)
+
+countdown(minutes = 5, seconds = 13)
+
+```
+
+---
+.left-column[
+## Pergunta cietífica
+- Não pode ser respondida por "sim" ou "não"
+- Abre uma nova linha de pesquisa
+- Aprofunda um tema de pesqusia
+- Preenche uma lacuna de conhecimento
+]
+.right-column[
+<img src="https://static.scientificamerican.com/sciam/assets/Image/neuron.gif">
+]
+
+---
+.left-column[
+## Hipótese científica
+- Precisa responder à pergunta
+- É afirmativa
+- Não pode ser condicional
+- Pode ser subdividida
+]
+.right-column[
+.center[
+<img src="https://d1lc5plzz0mq74.cloudfront.net/wp-content/uploads/2019/04/06110405/imagem-final5.png">
+
+*Uma hipótese (do grego antigo ὑπόθεσις, transl. hypóthesis, composto de hypo, 'sob', 'abaixo de', e thésis, 'posição') suposição ou especulação é uma formulação provisória, com intenções de ser posteriormente demonstrada ou verificada, constituindo uma suposição admissível.*
+
+Fonte: [**Wikipedia**](https://pt.wikipedia.org/wiki/Hip%C3%B3tese)
+]
+]
+
+---
+.left-column[
+## Título
+### Conciso e direto
+### Palavras-chave
+### Ambicioso
+### Honesto
+]
+.right-column[
+.center[
+<img src="https://media.giphy.com/media/oVptPWVH26gSvClKX5/giphy.gif" width=700>
+]
+]
+
+---
+.left-column[
+## Títulos ruins
+- Títulos longos
+- Indexados geograficamente
+- Generalistas
+- Especialistas
+- etc...
+
+[PeerJ](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/)
+]
+
+
+
+
+---
+class: center, middle
+# FIM
+
+
+
+
+
+
+
