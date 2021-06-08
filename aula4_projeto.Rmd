@@ -33,14 +33,14 @@ xaringanExtra::use_panelset()
 
 .pull-right[
 
-##- Entenda a estrutura de um projeto de pesquisa
+## Entenda a estrutura de um projeto de pesquisa
 
 
 ]
 
 ---
 .left-column[
-###- Mapa mental
+## Mapa mental
 - Deve ser autoexplicativo
 - Qualquer pessoa deve entender
 - Inspiração
@@ -126,7 +126,7 @@ countdown(minutes = 5, seconds = 13)
 
 ---
 .left-column[
-## Pergunta cietífica
+## Pergunta científica
 - Não pode ser respondida por "sim" ou "não"
 - Abre uma nova linha de pesquisa
 - Aprofunda um tema de pesqusia
@@ -177,10 +177,103 @@ Fonte: [**Wikipedia**](https://pt.wikipedia.org/wiki/Hip%C3%B3tese)
 - Especialistas
 - etc...
 
-[PeerJ](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/)
+[Veja alagumas dicas aqui: PeerJ](https://peerj.com/blog/post/115284880816/the-10-most-common-mistakes-when-choosing-a-title-for-your-paper/)
+]
+.right-column[
+<img src="libs/bad1.png">
+
+<img src="libs/bad2.png">
+
+<img src="libs/bad3.png">
+<img src="libs/bad4.png">
+
+<img src="libs/bad5.png">
+
+]
+---
+.left-column[
+## Títulos bons
+- Títulos objetivos
+- Palavras de relevância
+- Sugerem o resutlado principal
+- Deixam com vontade de ler o artigo
+]
+.right-column[
+<img src="libs/good1.png">
+
+<img src="libs/good2.png">
+
+<img src="libs/good3.png">
+<img src="libs/good4.png">
+
+<img src="libs/good5.png">
 ]
 
+---
+.left-column[
+## Cuidado gráfico
 
+### [Tutorial 1](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+### [Tutorial 2](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+]
+.right-column[
+<img src="https://d33wubrfki0l68.cloudfront.net/8c4f8d80813b30c55d7220734f1fe1e4d82aaeb4/50127/img/ggplot-tutorial/overview.png" width=700>
+]
+
+---
+.left-column[
+## Objetivos
+
+### Focado no avanço
+### Não é executra um método
+### Não é coletar 
+### Fazer o conhecimento avançar
+]
+.right-column[
+<img src="https://explorable.com/images/reasoning-cycle-research.jpg" width=700>
+]
+
+---
+.left-column[
+## Justificativa
+
+### Não pode ser geográfica
+### Não pode ser metodológica
+### Não pode ser espécie-specífica
+### Então, como?
+]
+.right-column[
+<img src="https://lo.unisa.edu.au/pluginfile.php/717665/mod_page/content/74/Problem%20statement.PNG" width=700>
+]
+
+---
+.left-column[
+## Justificativa
+
+### O que avança?
+### Para onde avança?
+### Quem se beneficia?
+### Como se beneficia?
+]
+.right-column[
+.center[
+<img src="https://media1.tenor.com/images/9fdf6ac1652c92984383ca5d6f392c9b/tenor.gif?itemid=11908780">
+
+[The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
+]]
+
+---
+.left-column[
+## Escrevendo propostas de financiamento
+
+### [FUNBIO](https://www.funbio.org.br/bolsasfunbio/)
+### [Rufford](https://www.rufford.org/)
+### [Idea Wild](https://ideawild.org/)
+### [Boticário](http://www.fundacaogrupoboticario.org.br/pt/Paginas/Inicial.aspx)
+]
+.right-column[
+.center[
+<img src="https://media.tenor.com/images/70ead8a339f95d80fa503419577f267d/tenor.gif" width=700>]]
 
 
 ---
