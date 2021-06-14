@@ -1,0 +1,212 @@
+---
+itle: "Sabares da Restauração"
+subtitle: "Moniotramento socioambiental"
+author: "Felipe Melo"
+institute: "Pacto"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["robot","tamu-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "macros.js"
+      
+---
+background-image: url(libs/title_pacto.png)
+backgriund-size: cover
+class: center, middle
+
+# Por que fazer o monitoramento socioeconômico?
+
+## Felipe Melo
+
+### UFPE
+
+---
+
+layout: true
+background-image: url(libs/pacto_temp.png)
+backgriund-size: contain
+
+---
+.right[
+# As pessoas da Caatinga]
+
+<img src="libs/pessoas.png">
+
+---
+.right[
+# Restauração para as pessoas]
+
+<img src="libs/opp_poverty.png" width= 900>
+
+
+---
+.right[
+# Reconhecer os diversos benefícios das florestas]
+
+<img src="libs/cash.png" width= 900>
+
+---
+.right[
+# Onde estão os vulneráveis do Brasil]
+
+.pull-left[
+<img src="libs/sovi.png" width= 900>
+]
+
+.pull-right[
+<img src="libs/bolsa_fam.png" width= 900>
+]
+
+---
+.right[
+# Qual o papel da Restauração?]
+
+--
+##- Reconhecer quem se beneficia mais
+
+--
+##- Corrigir desigualdades de acesso à recursos
+
+--
+##- Contemplar modelos que atendam às demandas locais
+
+---
+.right[
+# Um possível  modelo: a Caatinga]
+<img src="libs/mapbiom_caat.png" width= 900>
+
+---
+.right[
+# Um possível  modelo: a Caatinga]
+
+<img src="libs/caat_two.png" width= 900>
+
+---
+.right[
+# Um possível  modelo: a Caatinga]
+
+<img src="https://abori.com.br/wp-content/uploads/2020/07/F01_Landscape_Martins_RN_Brazil_CRFonseca-scaled-1-1499x844.jpg" width= 900>
+
+---
+.right[
+# Um possível  modelo: a Caatinga]
+.pull-left[
+<img src="libs/chronic.png" width= 900>
+]
+
+.pull-right[
+### - Disturbio crônico
+### - Associado à presença humana
+### - Provocado por atividades típicas da região
+]
+
+### fonte: [Antongiovanni et al (2020)](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13686)
+
+---
+.right[
+# Segruança alimentar]
+.pull-left[
+<img src="libs/drought.png" width= 900>
+]
+
+.pull-right[
+### - Caatinga combina com bode
+### - Restauração + Bode?
+]
+
+---
+.right[
+# Bodes e restauração]
+.pull-left[
+<img src="libs/bodes.png" width= 900>
+]
+
+.pull-right[
+### - Áreas de uso de 100ha
+### - Hábito generalista
+### - Reduzem biomassa de herbáceas
+### - Preferência por hábitats abertos
+### fontes: [Jamelli et al 2021](https://www.sciencedirect.com/science/article/abs/pii/S0140196321000987) e [Menezes et al 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ldr.3693)
+]
+
+---
+.right[
+# Restauração biocultural]
+.pull-left[
+<img src="libs/biocult.png" width= 420>
+]
+
+.pull-right[
+### - Conhecimento tradicional é chave para a restauração
+### - Aumenta a compromisso das pessoas
+### - Reproduz características originais do sistema
+### fonte: Sena et al 2021 (submetido)
+
+]
+
+---
+.right[
+# As pessoas usam espécies exóticas na Caatinga
+]
+
+
+.pull-left[
+<img src="https://live.staticflickr.com/7299/12700726443_6665b91e66_b.jpg" width= 420>
+
+## *Prosopis juliflora*
+]
+
+.pull-right[
+<img src="https://static.wixstatic.com/media/dd0291_a8dffb00b641f40bad8e919a7e6db9ec.jpg/v1/fill/w_1085,h_814,al_c,q_85,usm_0.66_1.00_0.01/dd0291_a8dffb00b641f40bad8e919a7e6db9ec.webp" width= 400>
+## *Nicotiana galuca*
+foto: Juliano Fabricante
+]
+
+---
+.right[
+# A Caatinga é energia
+]
+
+.pull-left[
+<img src="https://www.oeco.org.br/wp-content/uploads/2019/09/Chato.jpg" width= 420>
+
+## 85% da energia eólica do Brasil
+]
+
+.pull-right[
+<img src="https://imagens-cdn.canalrural.com.br/wp-content/uploads/lenha-nordeste-640x480.jpeg" width= 400>
+## Mercado de R$ 2Bi/ano
+fonte: [Canal Rural](https://www.canalrural.com.br/noticias/mercado-lenha-nordeste/)
+]
+
+---
+.right[
+# Novos desafios para a restauração
+]
+
+
+<img src="libs/wef.png" width= 920>
+
+fonte: [Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
+
+---
+.right[
+# Principais tarefas
+]
+
+## - A Caatinga será um laboratório de restauração inclusiva
+## - Monitorar indicadores socioeconômicos e ambientais é cruciaç
+## - Mover o foco do carbono e/ou biodiversidade para serviços
+## - Restauração participativa
+
+---
+class: center, middle
+
+# Obrigado
+## contato: felipe.plmelo@ufpe.br
