@@ -57,6 +57,8 @@ backgriund-size: contain
 
 .pull-left[
 <img src="libs/sovi.png" width= 900>
+[Hummel 2016](Social Vulnerability to Natural Hazards in Brazil)
+
 ]
 
 .pull-right[
@@ -177,6 +179,8 @@ foto: Juliano Fabricante
 <img src="https://www.oeco.org.br/wp-content/uploads/2019/09/Chato.jpg" width= 420>
 
 ## 85% da energia eólica do Brasil
+
+[Neri et al 2019](https://www.sciencedirect.com/science/article/pii/S2530064419300537)
 ]
 
 .pull-right[
@@ -209,4 +213,4 @@ fonte: [Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
 class: center, middle
 
 # Obrigado
-## contato: felipe.plmelo@ufpe.br
+## contato: felipe.plmelo@ufpe.´br
