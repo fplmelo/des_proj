@@ -1,8 +1,8 @@
 ---
-itle: "Sabares da Restauração"
-subtitle: "Moniotramento socioambiental"
+title: "Segurança Floresta e Alimentar na Caatinga"
+subtitle: "Curso de Campo UESC"
 author: "Felipe Melo"
-institute: "Pacto"
+institute: "UFPE"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -16,23 +16,11 @@ output:
       beforeInit: "macros.js"
       
 ---
-background-image: url(libs/title_pacto.png)
-backgriund-size: cover
-class: center, middle
-
-# Por que fazer o monitoramento socioeconômico?
-
-## Felipe Melo
-
-### UFPE
-
----
-
-layout: true
-background-image: url(libs/pacto_temp.png)
-backgriund-size: contain
-
----
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_scribble()
+xaringanExtra::use_fit_screen()
+```
 .right[
 # As pessoas da Caatinga]
 
@@ -213,4 +201,4 @@ fonte: [Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
 class: center, middle
 
 # Obrigado
-## contato: felipe.plmelo@ufpe.´br
+## contato: felipe.plmelo@ufpe.br
