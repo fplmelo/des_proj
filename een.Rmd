@@ -209,6 +209,7 @@ class: center, middle
 ]
 
 ---
+
 .right[
 # Novos desafios para a restauração
 ]
@@ -252,3 +253,5 @@ class: center, middle
 
 # Obrigado
 ## ecoaplic.org
+
+
