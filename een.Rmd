@@ -1,6 +1,6 @@
 ---
 title: "Segurança Florestal e Alimentar na Caatinga"
-subtitle: "Mesa Redonda: Ecologia e Conservação de Ambientes Neotropicais - EEN"
+subtitle: 
 author: "Felipe Melo"
 institute: "UFPE"
 date: "`r Sys.Date()`"
