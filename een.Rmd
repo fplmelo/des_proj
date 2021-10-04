@@ -1,8 +1,8 @@
 ---
-title: "Segurança Florestal e Alimentar na Caatinga"
-subtitle: 
+title: "Restauração e conservação Biocultural da Caatinga"
+subtitle: ""
 author: "Felipe Melo"
-institute: "UFPE"
+institute: "Laboratório de Ecologia Aplicada - UFPE"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -55,10 +55,10 @@ xaringanExtra::use_fit_screen()
 
 ---
 .right[
-# Qual o papel da Restauração?]
+# Qual o papel da Conservação e Restauração?]
 
 --
-##- Reconhecer quem se beneficia mais
+##- Reconhecer quem se beneficia
 
 --
 ##- Corrigir desigualdades de acesso à recursos
@@ -94,19 +94,22 @@ xaringanExtra::use_fit_screen()
 
 ---
 .right[
-# Segruança alimentar]
+# Segruança alimentar e Caatinga]
 .pull-left[
 <img src="libs/drought.png" width= 900>
 ]
 
 .pull-right[
-### - Caatinga combina com bode
-### - Restauração + Bode?
+### - Pecuária é chave
+### - Caatinga + Bode?
+<img src="libs/correlog.png" width= 900>
+
+Fonte: Alencar et al (in press)
 ]
 
 ---
 .right[
-# Bodes e restauração]
+# Bodes e Caatinga]
 .pull-left[
 <img src="libs/bodes.png" width= 900>
 ]
@@ -121,9 +124,9 @@ xaringanExtra::use_fit_screen()
 
 ---
 .right[
-# Bodes e restauração]
+# Bodes e Caatinga]
 .pull-left[
-<img src="libs/jameli.jpg" width= 900>
+<img src="libs/herb_biomass.png" width= 1000>
 ]
 
 .pull-right[
@@ -136,7 +139,7 @@ xaringanExtra::use_fit_screen()
 
 ---
 .right[
-# Bodes e restauração]
+# Bodes e Caatinga]
 .pull-left[
 <img src="libs/jameli2.jpg" width= 400>
 ]
@@ -150,17 +153,43 @@ xaringanExtra::use_fit_screen()
 ]
 
 ---
-.right[
-# Restauração biocultural]
+.left-column[
+# Segurança hídrica e Caatinga
+### - Acesso à água
+### - Problema multidimensional
+### - Variáveis socioeconômicas
+### fonte: Alencar et al in press)
+]
+
+.right-column[
+<img src="libs/water.jpg" width= 900>
+]
+
+---
+.left-column[
+# Segurança energética e Caatinga
+### - Importante fonte de energia
+### - Associada à vegetação
+### - Muito por entender ainda...
+#### fonte: Alencar et al (in press)
+]
+
+.right-column[
+<img src="libs/energy.png" width= 900>
+]
+
+---
+
 .pull-left[
-<img src="libs/biocult.png" width= 420>
+<img src="libs/biocult.png" width= 720>
 ]
 
 .pull-right[
+# Restauração biocultural
 ### - Conhecimento tradicional é chave para a restauração
 ### - Aumenta a compromisso das pessoas
 ### - Reproduz características originais do sistema
-### fonte: Sena et al 2021 (submetido)
+### fonte: Sena et al 2021 ("quase aceito")
 
 ]
 
@@ -178,7 +207,7 @@ xaringanExtra::use_fit_screen()
 
 .pull-right[
 <img src="https://static.wixstatic.com/media/dd0291_a8dffb00b641f40bad8e919a7e6db9ec.jpg/v1/fill/w_1085,h_814,al_c,q_85,usm_0.66_1.00_0.01/dd0291_a8dffb00b641f40bad8e919a7e6db9ec.webp" width= 400>
-## *Nicotiana galuca*
+## *Nicotiana glauca*
 foto: Juliano Fabricante
 ]
 
@@ -224,7 +253,7 @@ fonte: [Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
 # Principais tarefas
 ]
 
-## - A Caatinga será um laboratório de restauração inclusiva
+## - A Caatinga pode ser um laboratório de restauração inclusiva
 ## - Monitorar indicadores socioeconômicos e ambientais é crucial
 ## - Mover o foco do carbono e/ou biodiversidade para serviços e pessoas
 ## - Restauração participativa
@@ -252,6 +281,6 @@ knitr::include_graphics("libs/unis.png")
 class: center, middle
 
 # Obrigado
-## ecoaplic.org
+## [ecoaplic.org](www.ecoaplic.org)
 
 
