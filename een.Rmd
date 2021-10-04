@@ -240,13 +240,18 @@ class: center, middle
 ---
 
 .right[
-# Novos desafios para a restauração
+# Novos desafios para a valorização da Caatinga
 ]
 
 
 <img src="libs/wef.png" width= 920>
 
 fonte: [Melo et al 2021](https://www.nature.com/articles/s41893-020-00608-z)
+
+---
+# Oportunidade relâmpago!!!
+
+<img src="libs/fuleco.png" width= 1220>
 
 ---
 .right[
